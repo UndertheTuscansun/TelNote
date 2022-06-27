@@ -1,5 +1,5 @@
 package cn.itcast;
-//ï¿½ï¿½ï¿½ï¿½ï¿½ÞµÐ°æ±¾
+//¾¿¼«ÎÞµÐ°æ±¾
 public class App {
 	public static void main(String[] args) {
 		Operate o=new Operate();
